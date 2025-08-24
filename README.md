@@ -65,6 +65,7 @@ promote community identity.
 3.<strong>Programs Page:</strong> Added comprehensive information about tennis, basketball, cricket, soccer, and athletics (with practice and game schedules).
 
 4.Information for coaches, mentors, and sponsors to sign up has been added to the <strong>volunteer page.</strong>
+
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
 
 <strong>References</strong>
