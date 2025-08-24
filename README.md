@@ -8,7 +8,7 @@ Group 2
 
 <strong>Project Overview</strong>
 
-The United young League website is a community-driven initiative designed to highlight the league's history, programs, and community impact while encouraging the growth of young sports.  In addition to discussing the organization's vision, principles, and accomplishments, it emphasizes possibilities for kids ages 6 to 16 to participate in sports like basketball, cricket, tennis, soccer, and athletics.  The website, which was created using HTML and CSS, has specific pages for Home, About, Programs, Volunteer, Contact, and Registration. This makes information and sign-up forms easily accessible to parents, players, and community members.  Accessibility, simplicity, and responsiveness are given top priority in the design, which lays a solid fundation for upcoming improvements like JavaScript-based interactivity.
+The United young League website is a community-driven initiative designed to highlight the league's history, programs, and community impact while encouraging the growth of young sports. In addition to discussing the organization's vision, principles, and accomplishments, it emphasizes possibilities for kids ages 6 to 16 to participate in sports like basketball, cricket, tennis, soccer, and athletics.  The website, which was created using HTML and CSS, has specific pages for Home, About, Programs, Volunteer, Contact, and Registration. This makes information and sign-up forms easily accessible to parents, players, and community members. Accessibility, simplicity, and responsiveness are given top priority in the design, which lays a solid fundation for upcoming improvements like JavaScript-based interactivity.
 
 <strong>Website Goals and Objectives</strong>
 
@@ -94,6 +94,7 @@ Registration (register.html)
 4.Information for coaches, mentors, and sponsors to sign up has been added to the <strong>volunteer page.</strong>
 
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
+
 
 <strong>References</strong>
 
