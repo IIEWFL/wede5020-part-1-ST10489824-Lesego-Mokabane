@@ -48,4 +48,16 @@ promote community identity.
 
 <strong>Changelog</strong>
 
+<strong>First Proposal</strong>
+
+ 1.Outlined the organization's aims, objectives, and overview.
+
+ 2.Outlined the main pages: Volunteer, Programs, Contact, Home, About, and Registration.
+
+ 3.Selected layout, fonts, and colors for the design scheme.
+
+ 4.Suggested domain/hosting.
+
+ 5.Low-fidelity wireframes were made.
+ 
 <strong>References</strong>
