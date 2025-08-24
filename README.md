@@ -12,11 +12,11 @@ The United young League website is a community-driven initiative designed to hig
 
 <strong>Website Goals and Objectives</strong>
 
-1. Improve accessibility: Provide easy registration, mobile-friendly design, and 
+1. <strong>Improve accessibility:</strong> Provide easy registration, mobile-friendly design, and 
 intuitive navigation. 
-2. Showcase achievements: Highlight player success stories, events, and 
+2. <strong>Showcase achievements:</strong> Highlight player success stories, events, and 
 sponsorships. 
-3. Promote involvement: Share league news and emphasize benefits such as 
+3. <strong>Promote involvement:</strong> Share league news and emphasize benefits such as 
 free sports kits for members. 
-4. Support fundraising: Sell branded merchandise online to generate funds and 
+4. <strong>Support fundraising:</strong> Sell branded merchandise online to generate funds and 
 promote community identity.
