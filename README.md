@@ -55,6 +55,7 @@ promote community identity.
 <strong>Sitemap</strong>
 
 
+
 <strong>Changelog</strong>
 
 <strong>1. First Proposal</strong>
@@ -78,6 +79,7 @@ promote community identity.
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
 
 <strong>References</strong>
+
 Bluehost. Web Hosting Plans. [online] Available at: < https://www.bluehost.com/ > [Accessed 15 
 August 2025]. 
 
