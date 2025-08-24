@@ -54,6 +54,7 @@ promote community identity.
 
 <strong>Sitemap</strong>
 
+
 <strong>Changelog</strong>
 
 <strong>1. First Proposal</strong>
@@ -77,3 +78,38 @@ promote community identity.
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
 
 <strong>References</strong>
+Bluehost. Web Hosting Plans. [online] Available at: < https://www.bluehost.com/ > [Accessed 15 
+August 2025]. 
+MDN Web Docs. Web development best practices. [online] Available at: < 
+https://developer.mozilla.org/  > [Accessed 15 August 2025]. 
+Namecheap. 2025 Domain Registration Services. [online] Available at: < 
+https://www.namecheap.com/ > [Accessed 15 August 2025]. 
+W3Schools. 2025. HTML Tutorial. [online] Available at: < https://www.w3schools.com/html/ > 
+[Accessed 15 August 2025].
+Fraser-Thomas, J., Côté, J. and Deakin, J. 2005. ‘Youth sport programs: An avenue 
+to foster positive youth development’, Physical Education and Sport Pedagogy, 
+10(1), pp. 19–40. 
+Holt, N.L., Neely, K.C. and Slater, L.G. 2011. ‘Positive youth development through 
+sport: What we know and what we need to find out’, International Journal of Sport 
+and Exercise Psychology, 9(3), pp. 229–241. 
+https://www.flaticon.com/free-animated-icons/address title="address animated icons" 
+Address animated icons created by Freepik – Flaticon 
+https://www.flaticon.com/free-animated-icons/address title="address animated icons" 
+Address animated icons created by Freepik - Flaticon 
+https://www.flaticon.com/free-animated-icons/phone  title="phone animated icons" 
+Phone animated icons created by Freepik - Flaticon 
+Sport England 2021. The Value of Community Sport. London: Sport England. 
+[online]  Available at: https://sportengland.org/  [Accessed: 22 August 2025]. 
+UNICEF. 2019. Getting into the Game: Understanding the Evidence for Child
+Focused Sport for Development. New York: UNICEF. [online] Available at:  
+https://www.unicef.org/ [Accessed: 22 August 2025]. 
+Unsplash. 2025. Free stock photos for websites. [online] Available at: 
+https://unsplash.com/ [Accessed 22 August 2025]. 
+W3Schools. 2025. HTML Tutorial. [online] Available at: 
+https://www.w3schools.com/html/ [Accessed: 22 August 2025]. 
+https://www.flaticon.com/free-icons/github title="GitHub icons" GitHub icons created 
+by Pixel perfect - Flaticon 
+https://www.flaticon.com/free-icons/youtube  title="YouTube icons" YouTube icons 
+created by Freepik - Flaticon 
+https://www.flaticon.com/free-icons/instagram-logo  title="Instagram logo icons” 
+Instagram logo icons created by Pixel perfect - Flaticon
