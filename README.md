@@ -72,6 +72,7 @@ Contact (contact.html)
 
 Registration (register.html)
 
+
 <strong>Changelog</strong>
 
 <strong>1. First Proposal</strong>
