@@ -55,18 +55,22 @@ promote community identity.
 <strong>Sitemap</strong>
 
 Home (index.html)
-  About (about.html)
-  Programs (programs.html)
-      Soccer
-      Basketball
-      Cricket
-      Athletics
-      Tennis
+
+About (about.html)
+
+Programs (programs.html)
+<ul>
+  <li> Soccer</li>
+  <li> Basketball</li>
+  <li> Cricket</li>
+  <li> Athletics</li>
+  <li> Tennis</li>
+</ul>
 Volunteer (volunteer.html)
+
 Contact (contact.html)
+
 Registration (register.html)
-
-
 
 <strong>Changelog</strong>
 
