@@ -30,10 +30,22 @@ promote community identity.
 <strong>Key Features and Functionality</strong>
 
 <ul>
-  <li> Home Page: Overview of the league with latest news, events, and registration links.<li>
+  <li> Home Page: Overview of the league with latest news, events, and registration links.</li>
   <li>About Page: Mission, vision, history, and values. </li>
   <li>Contact Page: Form, email, phone, visual map. </li>
   <li>Registration Page: Online sign-ups, payment options, and kit selection. </li>
   <li>Programs & Sports Page: Details on available sports, age groups, and schedules. </li>
   <li>Volunteer & Sponsorship Page: Sign-up forms and information for contributors.</li>
 </ul>
+
+<strong>Timeline and Milestones</strong>
+
+<strong>Aug 14 – Aug 26:</strong> Finalize goals and requirements, confirm hosting/domain, create sitemap and wireframes, and develop the initial homepage structure.
+
+<strong>Part 1 Details</strong>
+
+<strong>Sitemap</strong>
+
+<strong>Changelog</strong>
+
+<strong>References</strong>
