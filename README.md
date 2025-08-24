@@ -97,17 +97,11 @@ Registration (register.html)
 
 <strong>References</strong>
 
-Bluehost. Web Hosting Plans. [online] Available at: < https://www.bluehost.com/ > [Accessed 15 
-August 2025]. 
+Bluehost. Web Hosting Plans. [online] Available at: < https://www.bluehost.com/ > [Accessed 15 August 2025]. 
 
-MDN Web Docs. Web development best practices. [online] Available at: < 
-https://developer.mozilla.org/  > [Accessed 15 August 2025]. 
+MDN Web Docs. Web development best practices. [online] Available at: < https://developer.mozilla.org/  > [Accessed 15 August 2025]. 
 
-Namecheap. 2025 Domain Registration Services. [online] Available at: < 
-https://www.namecheap.com/ > [Accessed 15 August 2025]. 
-
-W3Schools. 2025. HTML Tutorial. [online] Available at: < https://www.w3schools.com/html/ > 
-[Accessed 15 August 2025].
+Namecheap. 2025 Domain Registration Services. [online] Available at: < https://www.namecheap.com/ > [Accessed 15 August 2025]. 
 
 Fraser-Thomas, J., Côté, J. and Deakin, J. 2005. ‘Youth sport programs: An avenue to foster positive youth development’, Physical Education and Sport Pedagogy, 10(1), pp. 19–40. 
 
