@@ -44,11 +44,19 @@ promote community identity.
 
 <strong>Part 1 Details</strong>
 
+<strong>Part 1: Building the foundation</strong>
+<ul>
+  <li>Planning the project</li>
+  <li>Research and Content Gathering</li>
+  <li>Creating the HTML Structure</li>
+  <li>Organising the files to manage the projest easily</li>
+</ul>
+
 <strong>Sitemap</strong>
 
 <strong>Changelog</strong>
 
-<strong>First Proposal</strong>
+<strong>1. First Proposal</strong>
 
 <ul>
   <li>Outlined the organization's aims, objectives, and overview.</li>
@@ -58,7 +66,7 @@ promote community identity.
  <li>Low-fidelity wireframes were made.</li>
 </ul>
 
-<strong>Development-Related Updates</strong>
+<strong>2. Development-Related Updates</strong>
 
 1.<strong>Homepage:</strong> Impact cards, news/events, featured programs, and a hero have been added.
 2.The mission, vision, history, and target audience have been expanded on the <strong>about page.</strong> 
