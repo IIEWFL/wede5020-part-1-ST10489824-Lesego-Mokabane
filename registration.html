@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration - United Youth League </title>
+</head>
+
+<body>
+    <header>
+        <!--logo-->
+          <img src="_images/logo.png" alt="Logo" class="left-img" height="200" weight="100">
+        <h1> United Youth League</h1>
+         <nav>
+            <a href="index.html"> Home </a>
+            <a href="about.html"> About Us </a>
+            <a href="programs.html">Programs</a>
+            <a href="volunteer.html">Volunteer</a>
+            <a href="contact.html"> Contact Us </a>
+            <a href="registration.html" class="register-btn"><button>Register Now</button></a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+         <section class="hero">
+          <!-- Hero Image -->
+           <img src="_images/registration.jpg" height="500" width="900">
+            <div class="hero-text">
+                <h2>Player Registration</h2>
+                <p>Sign up today and join the United Youth League family</p>
+            </div>
+         </section>
+
+         <!-- Tennis Racket and Basketball Images -->
+          <img src="_images/tennisracket.jpg" alt="TennisRacket" height="400" width="500">
+          <div class="basketball">
+             <img src="_images/basketball2.jpg" alt="Basketball" height="500" width="500">
+          </div>
+
+         <!-- Registration Form -->
+          <section class="content">
+            <h2>Registration Form </h2>
+            <form class="register-form">
+                <label for="fullname">Full Name: </label>
+                <input type="text" id="fullname" name="fullname" required>
+                <br>
+
+                <label for="age">Age: </label>
+                <input type="number" id="age" name="age" min="6" max="16" required>
+                <br>
+
+                <label for="sport">Select Sport: </label>
+                <select id="sport" name="sport" required>
+                   <option value="">-- Select -- </option>
+                   <option value="tennis">Tennis</option>
+                   <option value="soccer">Soccer</option>
+                   <option value="basketball">Basketball</option>
+                   <option value="cricket">Cricket</option>
+                   <option value="athletics">Athletics</option>
+                </select>
+                <br>
+
+                <label for="kitsize">Kit Size:</label>
+                <select id="kitsize" name="kit size" required>
+                    <option value="" >-- Select Size -- </option>
+                    <option value="small">Small</option>
+                    <option value="medium">Medium</option>
+                    <option value="large">Large</option>
+                </select>
+                <br>
+
+                <label for="parent">Parent/Guardian Name:</label>
+                <input type="text" id="parent" name="parent" required>
+                <br>
+
+                <label for="phone">Contact Number:</label>
+                <input type="email" id="email" name="email" required>
+                <br>
+
+                <label for="payment">Payment Option: </label>
+                <select id="payment" name="payment" required>
+                    <option value="">-- Select -- </option>
+                    <option value="card">Credit/Debit Card</option>
+                    <option value="bank">Bank Transfer</option>
+                    <option value="cash">Cash on Registration Day</option>
+                </select>
+                <br>
+
+            </form>
+          </section>
+          <br>
+          <br>
+
+          <!-- Footer with links -->
+           <footer class="footer">
+             <!--logo-->
+              <img src="_images/logo.png" alt="Logo" height="80" width="90">
+             <p><h4>&copy; 2025 United Youth League | Follow us on</h4> </p>
+              <!-- Social Links -->
+             <!-- GitHub -->
+               <!-- hspace adds a blank space on the left and right of an image -->
+              <a href="https://github.com/ST10489824-Lesego-Mokabane" target="_blank">
+                <img src="_images/github.png" height="50" width="50" hspace="20">
+              </a>
+               <!-- YouTube -->
+                 <a href="https://www.youtube.com/@Lesegomokabane" target="_blank">
+                    <img src="_images/youtube.png" height="50" width="50" hspace="20">
+                 </a>
+                 <!-- Instagram -->
+                  <a href="https://www.instagram.com/simply.sego_/" target="_blank">
+                    <img src="_images/instagram.png" height="50" width="50" hspace="20">
+                  </a>
+           </footer>
+    </main>
+</body>
+</html>
