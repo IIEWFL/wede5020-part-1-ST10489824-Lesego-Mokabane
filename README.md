@@ -20,3 +20,20 @@ sponsorships.
 free sports kits for members. 
 4. <strong>Support fundraising:</strong> Sell branded merchandise online to generate funds and 
 promote community identity.
+
+<ul>
+  <li>Website traffic (unique visitors, page views).</li>
+  <li>Registration rates for sports programs.</li> 
+  <li>Feedback from parents, players, and volunteers.</li>
+</ul>
+
+<strong>Key Features and Functionality</strong>
+
+<ul>
+  <li> Home Page: Overview of the league with latest news, events, and registration links.<li>
+  <li>About Page: Mission, vision, history, and values. </li>
+  <li>Contact Page: Form, email, phone, visual map. </li>
+  <li>Registration Page: Online sign-ups, payment options, and kit selection. </li>
+  <li>Programs & Sports Page: Details on available sports, age groups, and schedules. </li>
+  <li>Volunteer & Sponsorship Page: Sign-up forms and information for contributors.</li>
+</ul>
