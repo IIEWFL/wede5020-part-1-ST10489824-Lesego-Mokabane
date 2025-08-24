@@ -50,10 +50,20 @@ promote community identity.
 
 <strong>First Proposal</strong>
 
- 1.Outlined the organization's aims, objectives, and overview.
- 2.Outlined the main pages: Volunteer, Programs, Contact, Home, About, and Registration.
- 3.Selected layout, fonts, and colors for the design scheme.
- 4.Suggested domain/hosting.
- 5.Low-fidelity wireframes were made.
- 
+<ul>
+  <li>Outlined the organization's aims, objectives, and overview.</li>
+  <li>Outlined the main pages: Volunteer, Programs, Contact, Home, About, and Registration</li>
+ <li>Selected layout, fonts, and colors for the design scheme.</li>
+ <li>Suggested domain/hosting.</li>
+ <li>Low-fidelity wireframes were made.</li>
+</ul>
+
+<strong>Development-Related Updates</strong>
+
+1.<strong>Homepage:</strong> Impact cards, news/events, featured programs, and a hero have been added.
+2.The mission, vision, history, and target audience have been expanded on the <strong>about page.</strong> 
+3.<strong>Programs Page:</strong> Added comprehensive information about tennis, basketball, cricket, soccer, and athletics (with practice and game schedules).
+4.Information for coaches, mentors, and sponsors to sign up has been added to the <strong>volunteer page.</strong>
+5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
+
 <strong>References</strong>
