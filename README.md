@@ -98,12 +98,25 @@ Registration (register.html)
 <strong>Screenshots of different types of responsive devices </strong>
 
 <strong>Mobile Size</strong>
+
 <img width="805" height="901" alt="Screenshot 2025-09-26 181620" src="https://github.com/user-attachments/assets/47e3e8da-76e2-46bd-8234-a63453632f3e" />
 <img width="714" height="900" alt="Screenshot 2025-09-26 181629" src="https://github.com/user-attachments/assets/811219e7-6353-4db9-9497-09ea48fad47e" />
 <img width="741" height="891" alt="Screenshot 2025-09-26 181638" src="https://github.com/user-attachments/assets/9b432565-4dd8-40d0-9b48-b48e8eefed39" />
 
+
 <strong>Desktop Size</strong>
+
+<img width="1884" height="903" alt="Screenshot 2025-09-26 180553" src="https://github.com/user-attachments/assets/8b304a65-1c96-49d3-b666-cde003281b15" />
+<img width="1916" height="914" alt="Screenshot 2025-09-26 180618" src="https://github.com/user-attachments/assets/14a9007f-01a8-44d8-820b-fe015149a7cf" />
+<img width="1887" height="897" alt="Screenshot 2025-09-26 180752" src="https://github.com/user-attachments/assets/f50941ea-4368-47ba-8121-84b9488cf36d" />
+<img width="1870" height="899" alt="Screenshot 2025-09-26 180817" src="https://github.com/user-attachments/assets/0a2631cb-12be-4409-a4da-41a5c2f1266b" />
+
+
 <strong>Tablet Size</strong>
+<img width="878" height="972" alt="Screenshot 2025-09-26 181358" src="https://github.com/user-attachments/assets/0431888d-d64d-435a-a5dc-fbd696ab7aa4" />
+<img width="794" height="908" alt="Screenshot 2025-09-26 181409" src="https://github.com/user-attachments/assets/976f2231-8793-41e5-96a0-08e4af5ea729" />
+<img width="809" height="900" alt="Screenshot 2025-09-26 181426" src="https://github.com/user-attachments/assets/522dbc7f-4429-4878-92d4-3679ca72d01d" />
+
 
 <strong>1. First Proposal</strong>
 
