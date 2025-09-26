@@ -113,6 +113,7 @@ Registration (register.html)
 
 
 <strong>Tablet Size</strong>
+
 <img width="878" height="972" alt="Screenshot 2025-09-26 181358" src="https://github.com/user-attachments/assets/0431888d-d64d-435a-a5dc-fbd696ab7aa4" />
 <img width="794" height="908" alt="Screenshot 2025-09-26 181409" src="https://github.com/user-attachments/assets/976f2231-8793-41e5-96a0-08e4af5ea729" />
 <img width="809" height="900" alt="Screenshot 2025-09-26 181426" src="https://github.com/user-attachments/assets/522dbc7f-4429-4878-92d4-3679ca72d01d" />
