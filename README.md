@@ -1,4 +1,4 @@
-<strong>WEDE5020 Part 1</strong>
+<strong>WEDE5020 Part 1 and 2</strong>
 
 Lesego Mokabane
 
@@ -138,6 +138,7 @@ Registration (register.html)
 4.Information for coaches, mentors, and sponsors to sign up has been added to the <strong>volunteer page.</strong>
 
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
+
 
 
 <strong>Updated reference List </strong>
