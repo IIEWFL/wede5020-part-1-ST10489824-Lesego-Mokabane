@@ -92,7 +92,7 @@ Registration (register.html)
   <li>Used CSS properties like box-shadow to style elements</li>
   <li>Used CSS pseudo-classes live ':hover' to make the elements interactive</li>
   <li>Used relative units like 'rem' for font sizes to ensure responsiveness</li>
-  <li>Used % for weight to make elements responsive</li>
+  <li>Used % for weights to make elements responsive</li>
 </ul>
 
 <strong>Screenshots of different types of responsive devices </strong>
