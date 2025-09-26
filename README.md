@@ -52,6 +52,14 @@ promote community identity.
   <li>Organising the files to manage the projest easily</li>
 </ul>
 
+<strong>Part 2 Details</strong>
+
+<ul>
+  <li>Use CSS Styling</li>
+  <li>Make a responsive design</li>
+  <li>Enhance the user experince</li>
+</ul>
+
 <strong>Sitemap</strong>
 
 Home (index.html)
@@ -73,7 +81,29 @@ Contact (contact.html)
 Registration (register.html)
 
 
-<strong>Changelog</strong>
+<strong>Updated Changelog</strong>
+<ul>
+  <li>Added more information on the HTML files</li>
+  <li>Updated images</li>
+  <li>I change the logo and the color scheme.</li>
+  <li>Created breakpoints to make it responsive for differnet types of devices.</li>
+  <li>Utilized browerser developer tools to test the website on different screen sizes.</li>
+  <li>Changed the font-size and font-family to make it easier to read.</li>
+  <li>Used CSS properties like box-shadow to style elements</li>
+  <li>Used CSS pseudo-classes live ':hover' to make the elements interactive</li>
+  <li>Used relative units like 'rem' for font sizes to ensure responsiveness</li>
+  <li>Used % for weight to make elements responsive</li>
+</ul>
+
+<strong>Screenshots of different types of responsive devices </strong>
+
+<strong>Mobile Size</strong>
+<img width="805" height="901" alt="Screenshot 2025-09-26 181620" src="https://github.com/user-attachments/assets/47e3e8da-76e2-46bd-8234-a63453632f3e" />
+<img width="714" height="900" alt="Screenshot 2025-09-26 181629" src="https://github.com/user-attachments/assets/811219e7-6353-4db9-9497-09ea48fad47e" />
+<img width="741" height="891" alt="Screenshot 2025-09-26 181638" src="https://github.com/user-attachments/assets/9b432565-4dd8-40d0-9b48-b48e8eefed39" />
+
+<strong>Desktop Size</strong>
+<strong>Tablet Size</strong>
 
 <strong>1. First Proposal</strong>
 
@@ -96,7 +126,7 @@ Registration (register.html)
 5.<strong>Contact Page:</strong> Added a phone number, email address, form, and placeholder map.
 
 
-<strong>References</strong>
+<strong>Updated reference List </strong>
 
 Bluehost. Web Hosting Plans. [online] Available at: < https://www.bluehost.com/ > [Accessed 15 August 2025]. 
 
@@ -127,3 +157,13 @@ https://www.flaticon.com/free-icons/github title="GitHub icons" GitHub icons cre
 https://www.flaticon.com/free-icons/youtube  title="YouTube icons" YouTube icons created by Freepik - Flaticon 
 
 https://www.flaticon.com/free-icons/instagram-logo  title="Instagram logo icons” Instagram logo icons created by Pixel perfect - Flaticon
+
+Google. 2025. Google Fonts - Montserrat and Open Sans. [online] Available at: https://fonts.google.com/ [Accessed: 23 September 2025].
+
+Mozilla Developer Network. 2025. HTML: HyperText Markup Language. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/HTML [Accessed: 23 September 2025].
+
+Mozilla Developer Network. 2025. CSS: Cascading Style Sheets. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/CSS [Accessed: 23 September 2025].
+
+Mozilla Developer Network. 2025 Using media queries. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries [Accessed: 25 September 2025].
+
+ W3Schools. 2025 CSS Media Queries. [online] Available at: https://www.w3schools.com/css/css_rwd_mediaqueries.asp [Accessed: 25 September 2025].
