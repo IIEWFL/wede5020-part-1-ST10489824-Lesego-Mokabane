@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+   <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400&display=swap" >
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> United Youth League - Home </title>
@@ -11,9 +13,8 @@
      <!-- Header with navigation -->
     <header>
         <!-- Organization Logo-->
-           <img src="_images/logo.png" alt="Logo" class="left-img" height="200" weight="100">
-        <h1>United Youth League</h1>
-
+           <img src="_images/United_Youth_Logo.png" alt="Logo" class="left-img" height="200" weight="100">
+           <h1>United Youth League</h1>
         <nav>
             <a href="index.html"> Home </a>
             <a href="about.html"> About Us </a>
@@ -27,7 +28,9 @@
          <!-- Hero Section -->
         <section class="hero">
          <!-- Hero Image -->
-           <img src="_images/heroimage.jpg" height="400" width="800">
+          <picture>
+            <img src="_images/heroimage.png" alt="Hero Image" class="hero-image">
+          </picture>
            <div class="hero-text">
              <h2>Every Sport, Every Child, Every Dream.</h2>
              <p>Building future leaders through sports, teamwork and community.</p>
@@ -56,22 +59,22 @@
              building a sense of belonging, and enhancing self-esteem.
           </p>
           <!-- This is a big container that will put the cards in a grid -->
-           <div class="imapct-grid">
+           <div id="container">
               <!-- Inside the grid are small multiple containers showing the information -->
-              <div class="impact-card">
-                <h3>1,500+</h3>
+              <div class="items">
+                <h2>1,500+</h2>
                 <p>Children trained since 2012</p>
               </div>
-              <div class="impact-card">
+              <div class="items">
                 <h2>20+</h2>
                 <p>Local sponsors supporting us</p>
               </div>
-              <div class="impact-card">
-                <h3>10</h3>
+              <div class="items">
+                <h2>10</h2>
                 <p>Provincial tournaments won</p>
               </div>
-              <div class="impact-card">
-                <h3>100%</h3>
+              <div class="items">
+                <h2>100%</h2>
                 <p>Volunteer-driven organization</p>
               </div>
             </div>
@@ -81,19 +84,20 @@
         <section class="content">
           <h2>Latest News & Events</h2>
           <!-- Image of Medals and Trophy -->
-          <img src="_images/medals.jpg" alt="Medals" height="600" width="800">
-          <img src="_images/trophy.jpg" alt="Trophy" height="500" width="800">
-
+          <div class="image-row">
+            <img src="_images/medals.jpg" alt="Medals" class="medals" width="400">
+             <img src="_images/trophy.jpg" alt="Trophy" class="trophy" width="400">
+          </div>
          <div class="news-grid">
-              <article>
+              <article class="news">
                 <h3> Soccer Season Kickoff</h3>
                 <p>Our 2025 soccer league starts September 1st. Register now to secure your spot!</p>
               </article>
-              <article>
+              <article class="news">
                 <h3> Tennis Tournaments </h3>
                 <p>UYL tennis team won 10 medals at the provincial tennis tournaments. Amazing performance!</p>
               </article>
-              <article>
+              <article class="news">
                 <h3> Free Sports Kits</h3>
                 <p>New members this year receive a free UYL-branded kit. Don't miss out!</p>
               </article>
@@ -104,7 +108,7 @@
         <section class="cta">
          <h2> Get Involved Today</h2>
          <p>Be part of something bigger, as a volunteer or sponsor.</p>
-         <a href="volunteer.html">Learn More</a>
+         <a href="volunteer.html" class="cta-link">Learn More</a>
        </section>
 
        <!-- Why Join Section -->
@@ -129,7 +133,7 @@
       <!-- Footer with social links -->
         <footer class="footer">
             <!-- Logo -->
-             <img src="_images/logo.png" alt="Logo" height="80" width="90">
+             <img src="_images/United_Youth_Logo.png" alt="Logo" height="130" width="200">
              <p><h4>&copy; 2025 United Youth League | Follow us on </h4></p>
              <!-- Social Links -->
              <!-- GitHub -->

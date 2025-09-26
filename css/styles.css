@@ -1,0 +1,355 @@
+header{
+    background-color: #0a0a2a; 
+    padding: 40px;  /* Spacing inside the header */
+    text-align: center;
+}
+
+.left-img {
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+
+h1{ 
+    color:rgb(255, 255, 255);
+}
+
+a{
+    text-decoration: none; /* Remove underline from links */
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 5px;    
+}
+
+a:hover {
+    color: #d8b4fe;
+}
+
+.hero {
+    background-color: #d8b4fe;
+}
+
+.hero-image {
+    max-width: 100%; /* Responsive image (scales down on smaller screens) */
+    height: auto; /* Maintain image ratio */
+    display: block; /* Display as block element */
+}
+.hero-text {
+    text-align: center;
+}
+/*Body text with the font Open Sans regular */
+body {
+    background-color: #bfdbfe;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400; /* Normal weight for text */
+}
+/* Headings with the font Montserrat Bold*/
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.15rem; /* Larger font size */
+    margin: 1.5rem; /* Space around headings */
+}
+
+footer {
+    background-color: #0a0a2a;
+    padding: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+#container {
+    display: grid;
+     /* repeats a column multiple times, fills the row with many columns
+    that will fit, a column cab grow up to a fraction of the available space */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px; 
+    margin-top: 20px;
+}
+
+.items {
+    background: #f5f5f5;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0.1); /* Soft shadow */
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid with min width of 250px */
+    gap: 20px;  /* space between grid items */
+    margin-top: 20px;
+}
+
+.news-grid article {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0.1);
+    transition: transform 0.2s ease; /* Smooth hover effect */
+}
+
+.news-grid-article:hover {
+    transform: translateY(-5px);  /* Slight lift on hover */
+}
+
+article {
+    background: #7c9cb6;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0.1);
+    line-height: 1.6; /* easier to read the text */
+    width: 100%;
+    height: 800px;
+}
+article h2 {
+    margin-top: 0; /*removes the default top space */
+}
+.heading{
+    text-align: center;
+}
+.volunteer-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f3b2dd;
+}
+.volunteer-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.volunteer-form input,
+.volunteer-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* prevents elements from growing bigger when adding padding */
+}
+.volunteer-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0a0a2a;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* makes color changes look smooth instead of instant. */
+}
+.volunteer-form button:hover {
+    background-color: #0056b3;
+}
+@media (max-width: 500px) {
+    .volunteer-form {
+        padding: 15px;
+    }
+}
+.contact-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f3b2dd;
+}
+.contact-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.contact-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0a0a2a;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.contact-form button:hover {
+    background-color: #0056b3;
+}
+@media (max-width: 500px) {
+    .contact-form {
+        padding: 15px;
+    }
+}
+.register-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f3b2dd;
+}
+.register-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.register-form input,
+.register-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.register-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0a0a2a;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.register-form button:hover {
+    background-color: #0056b3;
+}
+@media (max-width: 500px) {
+    .register-form {
+        padding: 15px;
+    }
+}
+blockquote {
+    position: relative;
+    font-size: 18px;
+    padding: 20px 30px;
+    margin: 20px 0;
+    background: #f5f5f5;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0.1);
+}
+blockquote::before {
+    font-size: 50px;
+    position: absolute;
+    left: 10 px;
+    top: -10px;
+}
+blockquote cite {
+    display: block;
+    margin-top: 12px;
+    text-align: right;
+    font-size: 1.2rem;
+    color: #0d2c6a;
+}
+.news {
+    background: #7c9cb6;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0.1);
+    line-height: 1.6; /* easier to read the text */
+    width: 300px;
+    height: 200px;
+}
+.news h3 {
+    margin-top: 0; 
+}
+button:hover {
+    opacity: 0.9;
+}
+.cta-link {
+    animation: pulse 2s infinite; /* This gives the element a pulsing glow effect */
+}
+/* This makes the CTA link have animation */
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(75, 6, 91, 0.6); }
+    70% { box-shadow: 0 0 0 15px rgba(102, 6, 117, 0);}
+    100% { box-shadow: 0 0 0 0 rgba(102, 6, 117, 0);}
+}
+.image-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.image-row img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+.hero-image {
+  margin-top: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 100%;
+  height: 400px; /* Default height for desktop */
+  background-size: cover;    /* Scales image to cover section */
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.program-img {
+  margin-top: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 100%;
+  height: 400px; /* Default height for desktop */
+  background-size: cover;    /* Scales image to cover section */
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+} 
+/* Breakpoints for different screens */
+/* Mobile */
+@media only screen and (max-width: 600px) {
+  body {
+    background: rgb(174, 125, 193);
+    font-size: 14px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
+/* Tablet */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    background: lightgreen;
+    font-size: 16px;
+  }
+
+  .container {
+    padding: 20px;
+  }
+}
+/* Desktop */
+@media only screen and (min-width: 1025px) {
+  body {
+    background: #bfdbfe;
+    font-size: 18px;
+  }
+
+  .container {
+    padding: 40px;
+    max-width: 1200px;
+    margin: auto;
+  }
+}
